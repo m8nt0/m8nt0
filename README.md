@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @m8nt0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Everything
+- 🌱 I’m currently learning Visual and Auditorial Proggraming
+- 💞️ I’m looking to collaborate on Game Dev
 - 📫 How to reach me: codem8nt0@gmail.com
-- 😄 Pronouns: just person
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
