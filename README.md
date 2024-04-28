@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m8nt0
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Visual and Auditorial Proggraming
-- 💞️ I’m looking to collaborate on Game Dev
+- 🌱 I’m currently learning Embedded System Architecture and Algorithms 
+- 💞️ I’m looking to collaborate on Signal Programming 
 - 📫 How to reach me: codem8nt0@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
