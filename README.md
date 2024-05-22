@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m8nt0
+- 👋 Hi, I’m Mikias Berhane
 - 👀 I’m interested in Everything
 - 🌱 I’m currently learning Embedded System Architecture and Algorithms 
 - 💞️ I’m looking to collaborate on Web development 
