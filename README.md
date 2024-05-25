@@ -1,54 +1,68 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Mikias Berhane 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet)
 
 ## 🚀 About Me
-I'm a passionate data scientist with expertise in predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I excel at regression tasks and exploring reinforcement learning (RL). I have a robust foundation in classical machine learning and the necessary mathematical skills.
+I'm a versatile developer with a wide-ranging skill set encompassing full-stack development, data science, machine learning, and systems programming. My projects reflect my diverse interests and expertise, from developing sophisticated smart city traffic management systems to creating an open-set image tagging tool using advanced machine learning models.
 
-Currently, I am exploring decentralized finance (DeFi) and web3, focusing on developing and analyzing smart contracts. In my free time, I enjoy solving problems on LeetCode and participating in CTF challenges.
+### Highlighted Projects:
+- **[MyAwesomeCMS](https://github.com/yourusername/MyAwesomeCMS):** A language-agnostic CMS, adaptable to various tech stacks and emphasizing best practices in project organization.
+- **[open-set-image-tagging](https://github.com/yourusername/open-set-image-tagging):** An innovative tool leveraging pre-trained models to tag and caption images, recognizing new categories not seen during training.
+- **[SmartCityTrafficManagement](https://github.com/yourusername/SmartCityTrafficManagement):** A sophisticated system for managing city traffic using Python.
+- **[FrozenLake-Q-Learning-Project](https://github.com/yourusername/FrozenLake-Q-Learning-Project):** A comprehensive demonstration of Q-Learning applied to the FrozenLake environment from OpenAI Gym.
 
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💼 Skills
 
-### Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-5B5B5B?style=for-the-badge&logo=verilog&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### Frameworks and Libraries
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Data Science and Machine Learning
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Data Manipulation
-![Conda](https://img.shields.io/badge/-Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools and Environments
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![HardHat](https://img.shields.io/badge/-HardHat-FDA50F?style=for-the-badge&logo=hardhat&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Security Tools
 ![Metasploit](https://img.shields.io/badge/-Metasploit-57A143?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -58,23 +72,7 @@ Currently, I am exploring decentralized finance (DeFi) and web3, focusing on dev
 ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
 ## 🏆 Competitions
-### Algorithms [LeetCode](https://leetcode.com/yourusername/)
-
-| CTF | Result | Team | Date |
-|-----|--------|------|------|
-|BSidesSF CTF|top 10%|movie43|05/24|
-|CIT@CTF|top 6%|undermouses|04/2024|
-|Space HeroesCTF|top 23%|check_yor_mom|04/2024|
-|swampCTF|top 17%|check_your_mouse|03/2024|
-|wolvCTF|top 31%|undermouses|03/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-|osuCTF|top 35%|undermouses|02/2024|
-|vksCTF|top 15%|solo played|09/2023|
-
-## 🚀 Projects
-- [Fullstack Web3 Development Course](https://github.com/yourusername/full_course_crypto_32)
-- [Ethernaut Tasks](https://github.com/yourusername/ethernaut_source_tasks)
-- Various bots and scripts with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
+### Algorithms [LeetCode](https://leetcode.com/m8nt0/)
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -91,4 +89,4 @@ Currently, I am exploring decentralized finance (DeFi) and web3, focusing on dev
 </p>
 
 ## 📬 How to Reach Me
-Feel free to reach out via [Email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feel free to reach out via [Email](prodm8nt0@gmail.com)
