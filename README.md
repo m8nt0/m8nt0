@@ -76,12 +76,12 @@ I'm a versatile developer with a wide-ranging skill set encompassing full-stack 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark">
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=m8nt0&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m8nt0&layout=compact&theme=vision-friendly-dark">
 </p>
 
 <p align="center">
-  <img width="800" src="https://streak-stats.demolab.com?user=yourusername&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" src="https://streak-stats.demolab.com?user=m8nt0&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 <p align="center">
