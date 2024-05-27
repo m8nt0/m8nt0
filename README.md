@@ -6,10 +6,10 @@
 I'm a versatile developer with a wide-ranging skill set encompassing full-stack development, data science, machine learning, and systems programming. My projects reflect my diverse interests and expertise, from developing sophisticated smart city traffic management systems to creating an open-set image tagging tool using advanced machine learning models.
 
 ### Highlighted Projects:
-- **[MyAwesomeCMS](https://github.com/yourusername/MyAwesomeCMS):** A language-agnostic CMS, adaptable to various tech stacks and emphasizing best practices in project organization.
-- **[open-set-image-tagging](https://github.com/yourusername/open-set-image-tagging):** An innovative tool leveraging pre-trained models to tag and caption images, recognizing new categories not seen during training.
-- **[SmartCityTrafficManagement](https://github.com/yourusername/SmartCityTrafficManagement):** A sophisticated system for managing city traffic using Python.
-- **[FrozenLake-Q-Learning-Project](https://github.com/yourusername/FrozenLake-Q-Learning-Project):** A comprehensive demonstration of Q-Learning applied to the FrozenLake environment from OpenAI Gym.
+- **[MyAwesomeCMS](https://github.com/m8nt0/MyAwesomeCMS):** A language-agnostic CMS, adaptable to various tech stacks and emphasizing best practices in project organization.
+- **[open-set-image-tagging](https://github.com/m8nt0/open-set-image-tagging):** An innovative tool leveraging pre-trained models to tag and caption images, recognizing new categories not seen during training.
+- **[SmartCityTrafficManagement](https://github.com/m8nt0/SmartCityTrafficManagement):** A sophisticated system for managing city traffic using Python.
+- **[FrozenLake-Q-Learning-Project](https://github.com/m8nt0/FrozenLake-Q-Learning-Project):** A comprehensive demonstration of Q-Learning applied to the FrozenLake environment from OpenAI Gym.
 
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
