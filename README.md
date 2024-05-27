@@ -72,7 +72,8 @@ I'm a versatile developer with a wide-ranging skill set encompassing full-stack 
 ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
 ## 🏆 Competitions
-### Algorithms [LeetCode](https://leetcode.com/m8nt0/)
+### - [LeetCode](https://leetcode.com/m8nt0/)
+### - [Codeforce](https://codeforces.com/profile/m8nt0?csrf_token=74df160cbdbf7d20d22c99a47b47c9c8)
 
 ## 📊 GitHub Stats
 <p align="center">
