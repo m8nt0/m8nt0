@@ -41,10 +41,10 @@ const mikias = {
 
 <div align="center">
 
-[![Algorithm Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=algorithm-visualizer&theme=radical)](https://github.com/m8nt0/algorithm-visualizer)
-[![Langy](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=langy&theme=radical)](https://github.com/m8nt0/langy)
-[![Computer Visualization](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=computer-visualization&theme=radical)](https://github.com/m8nt0/computer-visualization)
-[![Dating App](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=dating-app&theme=radical)](https://github.com/m8nt0/dating-app)
+[![Algorithm Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=algorithm-visualizer&theme=radical&cache_seconds=1800)](https://github.com/m8nt0/algorithm-visualizer)
+[![Langy](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=langy&theme=radical&cache_seconds=1800)](https://github.com/m8nt0/langy)
+[![Computer Visualization](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=computer-visualization&theme=radical&cache_seconds=1800)](https://github.com/m8nt0/computer-visualization)
+[![Dating App](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=dating-app&theme=radical&cache_seconds=1800)](https://github.com/m8nt0/dating-app)
 
 </div>
 
