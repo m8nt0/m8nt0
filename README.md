@@ -42,7 +42,7 @@ const mikias = {
 <div align="center">
 
 [![Dating App Card](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=dating-app&theme=radical)](https://github.com/m8nt0/dating-app)
-[![CMS Card](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=MyAwesomeCMS&theme=radical)](https://github.com/m8nt0/MyAwesomeCMS)
+[![Algorithm Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=MyAwesomeCMS&theme=radical)](https://github.com/m8nt0/algorithm-visualizer)
 [![Traffic Management Card](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=SmartCityTrafficManagement&theme=radical)](https://github.com/m8nt0/SmartCityTrafficManagement)
 [![ML Project Card](https://github-readme-stats.vercel.app/api/pin/?username=m8nt0&repo=FrozenLake-Q-Learning-Project&theme=radical)](https://github.com/m8nt0/FrozenLake-Q-Learning-Project)
 
