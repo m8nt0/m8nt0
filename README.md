@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-> Passionate developer crafting digital experiences at the intersection of AI and human interaction. Specialized in full-stack development, machine learning, and systems architecture.
+> Passionate developer crafting digital experiences at the intersection of AI and human interaction. I specialize in full-stack development, machine learning, and systems architecture.
 
 ```typescript
 const mikias = {
@@ -83,7 +83,7 @@ const mikias = {
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m8nt0)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m8nt0)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://m8nt0.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prodm8nt0@gmail.com)
 
 </div>
